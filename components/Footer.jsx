@@ -12,6 +12,6 @@ export default function Footer() {
             <a href ="">
                 <img src="" aria-label="Email image and link"></img>
             </a>
-        </footer>
+        </footer> 
     )
 }
