@@ -10,6 +10,7 @@
   "dependencies": {
     "react": "19.0.0-rc-8b08e99e-20240713",
     "react-dom": "19.0.0-rc-8b08e99e-20240713",
+    "react-typed": "^2.0.12",
     "vite": "latest"
   },
   "devDependencies": {
