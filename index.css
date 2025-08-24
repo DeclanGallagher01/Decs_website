@@ -7,9 +7,15 @@ body {
   font-family: "Press Start 2P", system-ui;
   font-weight: 400;
   font-style: normal;
+  font-size: 1 rem;
   color: green;
 }
 
-header {
-   
+header ul {
+  list-style-type: none;
+  font-family: "Press Start 2P", system-ui;
+  font-weight: bold;
+  font-style: normal;
+  display: flex;
+  flex-direction: row;
 }
