@@ -2,7 +2,6 @@ export default function Header() {
     const cvFileName = "Declan-Gallagher-CV.pdf"
     return (
         <header>
-            <img src="" aria-label="Declan Gallagher Logo"></img>
             <ul>
                 <li><a href="./index.jsx">Home</a></li>
                 <li><a href="">About Me</a></li>
