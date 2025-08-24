@@ -14,8 +14,9 @@ header ul {
   list-style: none;
   display: flex;         
   flex-direction: row;   
+  align-items: flex-end;
   gap: 2rem;            
-  padding: 0;
+  padding-bottom: 1rem;
   margin: 0;
 }
 
