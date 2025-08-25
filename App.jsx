@@ -1,6 +1,5 @@
 import Header from "./components/Header"
-import Main from "./components/Main.jsx"
-import Footer from "./components/Footer.jsx"
+import Main from "./components/Main"
 
 export default function App() {
     
@@ -8,7 +7,6 @@ export default function App() {
         <>
             <Header />
             <Main/>
-            <Footer/>
         </>
     )
 }
